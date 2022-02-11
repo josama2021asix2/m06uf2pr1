@@ -2,5 +2,5 @@
 clear
 echo "Hola món"
 Autor: Joel Salvador Marcos
-Data: la data d'avui real
+Data: 11/02/2022
 exit 0
